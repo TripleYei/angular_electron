@@ -13,6 +13,6 @@ Usamos la aplicación llamada Angular Material, ir a la aplicación, <a href="ht
 
 ## Resultado
 
-<img src="electron1.PNG">
+<img src="IMG/electron1.PNG">
 
-<img src="electron2.PNG">
+<img src="IMG/electron2.PNG">
