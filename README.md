@@ -1,5 +1,5 @@
 # angular_electron
-Web Angular se convierte a Escritorio con Electron
+Web Angular se convierte a Escritorio (Desktop) con Electron
 
 
 # Angular Electron
